@@ -1,0 +1,5 @@
+001-0383c24	TKD 33-0797b	buddhist/K-koreana/33-tif/0700-0799/33_0797_B.TIF
+001-0384b14	TKD 33-0797c	buddhist/K-koreana/33-tif/0700-0799/33_0797_C.TIF
+001-0384b14	TKD 33-0798a	buddhist/K-koreana/33-tif/0700-0799/33_0798_A.TIF
+001-0384a00	T 001-0384a	buddhist/T-taisho/T19/03/T19-0384.png
+001-0384b00	T 001-0384b	buddhist/T-taisho/T19/03/T19-0384.png
